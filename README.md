@@ -1,5 +1,5 @@
 # Prankers
-- Coded by Bartes Dwiky
+- Coded by K4ND45.1927
 
 # Version 1.0
 - SpamCall Unlimited
@@ -7,17 +7,10 @@
 - SpamGmail Unlimited
 - SpamWhatsapp Unlimited
 
-# Contactme
-- https://www.instagram.com/bartes_07
-- clayhackerteam404@gmail.com
-
-# Website / Forum
-- http://www.ootopia.id/
-- http://www.i-zone.co.in/
-
 # Thanks To
 - CCP Programmers
 - ClayHackerTeam
 - IndoSec
 - DevlinCyberTeam
+- Cyberk4nd4S
 
