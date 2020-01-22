@@ -8,11 +8,11 @@
 - SpamWhatsapp Unlimited
 
 # Thanks To
+- Cyberk4nd4s
 - CCP Programmers
 - ClayHackerTeam
 - IndoSec
 - DevlinCyberTeam
-- Cyberk4nd4S
 
 #Salam Satu Nyali wani#
 #Persebaya Surabaya#
