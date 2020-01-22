@@ -4,7 +4,8 @@ echo "====================================================
 
 # Created : Gawa Ilham Fajar Ramadhan
 # Github  : Https://github.com/Cyberk4nd4S/Ambyar
-# Inspirasi Ini Muncul Saat Tersakiti Oleh Mantan.
+# Inspirasi Ini Muncul Saat Tersakiti Oleh Mantan
+# Persebaya, Salam Satu Nyali... Wani!!! 
 
 ====================================================" | lolcat
 sleep 1
