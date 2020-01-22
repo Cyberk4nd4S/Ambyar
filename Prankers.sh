@@ -1,10 +1,10 @@
 clear
-figlet PRANKERS | lolcat
+figlet JANCOK | lolcat
 echo "====================================================
 
 # Created : Gawa Ilham Fajar Ramadhan
 # Github  : Https://github.com/Cyberk4nd4S/Ambyar
-# Inspirasi Ini Muncul Saat Tersakiti Oleh Mantan
+# Inspirasi Ini Muncul Saat Tersakiti Oleh Mantan.
 
 ====================================================" | lolcat
 sleep 1
