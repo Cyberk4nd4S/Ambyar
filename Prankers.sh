@@ -5,7 +5,7 @@ echo "====================================================
 # Created : Gawa Ilham Fajar Ramadhan
 # Github  : Https://github.com/Cyberk4nd4S/Ambyar
 # Inspirasi Ini Muncul Saat Tersakiti Oleh Mantan.
-
+# PERSEBAYA, SALAM SATU NYALI... WANI!!!
 ====================================================" | lolcat
 sleep 1
 echo " Pilih Nomornya : " | lolcat
