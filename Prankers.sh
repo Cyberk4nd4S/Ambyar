@@ -1,10 +1,10 @@
-﻿
 clear
 figlet PRANKERS | lolcat
 echo "====================================================
 
-# Coded   : G.I.F.R
+# Created : Gawa Ilham Fajar Ramadhan
 # Github  : Https://github.com/Cyberk4nd4S/Ambyar
+# Inspirasi Ini Muncul Saat Tersakiti Oleh Mantan
 
 ====================================================" | lolcat
 sleep 1
